@@ -1,6 +1,6 @@
 ### Ayo
-Don't judge me I'm too ashamed of my work to put it public, but if you give a shit (and you do not) I work with various shit
-I've worked with 
+Don't judge me I'm too ashamed of my work to put it public, but if you give a shit (and you do not) here's some shit which I have worked with
+
 - Flutter
 - Java (spring-boot, jpa, shit)
 - Kotlin
