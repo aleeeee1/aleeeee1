@@ -9,7 +9,7 @@ Don't judge me I'm too ashamed of my work to put it public, but if you give a sh
 - C
 - Javascript, react, css, html shit
 - MySql but just a bit
-- I know how to fucking now an API, bro please
+- I know how to fucking use an API, bro please
 
 - mauro
 - BAKA#3949 on discord if u ever need me for something of the above.
