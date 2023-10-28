@@ -32,6 +32,9 @@
     </div>
 </div>
 
+## Some useless things
+![](https://github-readme-stats-r76cmk7ht-aleeeee1.vercel.app/api?username=aleeeee1&custom_title=The%20stats%20thing&theme=graywhite)
+
 ## Contacts
 
 <a href="https://t.me/bakkaq" target="_blank">
