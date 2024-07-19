@@ -8,7 +8,7 @@
 
 - Worked a lot with Python, Flutter, NodeJS, Firebase
 - Worked a bit with C, C++, Java, Kotlin, Vue, Vuetify, MySQL, PostgresSQL, Rust, bla bla bla a lot of things
-- Built [SparkOS](https://github.com/Spark-Rom), a custom ROM for my wonderful Xiaomi Mi A3
+- Built many custom ROMs for my wonderful Xiaomi Mi A3
 - Built some apps for Android, iOS with Flutter, like [AnimeStream](https://github.com/aleeeee1/AnimeStream) and [SushiRoom](https://github.com/SushiRoom/app)
 
 
