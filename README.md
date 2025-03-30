@@ -1,6 +1,6 @@
 # Hi I'm Ale
 
-<img src="https://bakka-spotify.vercel.app/api?theme=dark" alt="Widget with the current Spotify song" />
+<img src="https://aleeeee1.pythonanywhere.com?theme=dark" alt="Widget with the current Spotify song" />
 
 [![](https://visitcount.itsvg.in/api?id=aleeeee1&icon=7&color=0)](https://visitcount.itsvg.in)
 
